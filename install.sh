@@ -1,7 +1,7 @@
 #!/bin/bash
 # build-mule-site — one-line installer
 
-REPO="https://raw.githubusercontent.com/johnson-brad/build-mule-site/main"
+REPO="https://raw.githubusercontent.com/bradtjohns/build-mule-site/main"
 COMMANDS_DIR="$HOME/.claude/commands"
 
 echo "Installing build-mule-site skill..."

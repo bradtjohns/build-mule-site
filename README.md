@@ -15,7 +15,7 @@ Generates a **Next.js 14 + TypeScript + Tailwind + Framer Motion** site with:
 ## Installation
 
 ```bash
-curl -s https://raw.githubusercontent.com/johnson-brad/build-mule-site/main/install.sh | bash
+curl -s https://raw.githubusercontent.com/bradtjohns/build-mule-site/main/install.sh | bash
 ```
 
 Then open Claude Code and type `/build-mule-site`.
@@ -76,4 +76,4 @@ The skill walks through Q&A, shows a full pre-build plan for approval, then gene
 
 ---
 
-Built by [@johnson-brad](https://github.com/johnson-brad)
+Built by [@bradtjohns](https://github.com/bradtjohns)
